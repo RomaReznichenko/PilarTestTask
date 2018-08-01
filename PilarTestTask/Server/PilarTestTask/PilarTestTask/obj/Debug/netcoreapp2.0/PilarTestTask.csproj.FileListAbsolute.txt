@@ -1,0 +1,11 @@
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\PilarTestTask\PilarTestTask\bin\Debug\netcoreapp2.0\PilarTestTask.deps.json
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\PilarTestTask\PilarTestTask\bin\Debug\netcoreapp2.0\PilarTestTask.runtimeconfig.json
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\PilarTestTask\PilarTestTask\bin\Debug\netcoreapp2.0\PilarTestTask.runtimeconfig.dev.json
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\PilarTestTask\PilarTestTask\bin\Debug\netcoreapp2.0\PilarTestTask.dll
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\PilarTestTask\PilarTestTask\bin\Debug\netcoreapp2.0\PilarTestTask.pdb
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\PilarTestTask\PilarTestTask\obj\Debug\netcoreapp2.0\PilarTestTask.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\PilarTestTask\PilarTestTask\obj\Debug\netcoreapp2.0\PilarTestTask.AssemblyInfoInputs.cache
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\PilarTestTask\PilarTestTask\obj\Debug\netcoreapp2.0\PilarTestTask.AssemblyInfo.cs
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\PilarTestTask\PilarTestTask\obj\Debug\netcoreapp2.0\PilarTestTask.dll
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\PilarTestTask\PilarTestTask\obj\Debug\netcoreapp2.0\PilarTestTask.pdb
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\PilarTestTask\PilarTestTask\obj\Debug\netcoreapp2.0\PilarTestTask.csprojAssemblyReference.cache
